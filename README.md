@@ -1,16 +1,64 @@
-## Hi there 👋
+## 1. Terminal tools
 
-<!--
-**objectiveprover/ObjectiveProver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CaddyMan — Manager for Self-Hosted Server Applications
 
-Here are some ideas to get you started:
+https://github.com/objectiveprover/CaddyMan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ServiceMan — Manager for Systemd Units
+
+https://github.com/objectiveprover/ServiceMan
+
+### GetMan — Download Manager
+
+https://github.com/objectiveprover/GetMan
+
+### Emacs — Text Editor
+
+https://github.com/objectiveprover/.emacs.d
+
+<br><br>
+
+## 2. Utilities
+
+#### TimeTracker — Timer Widget for Omarchy Linux
+
+https://github.com/objectiveprover/TimeTracker
+
+<br><br>
+
+## 3. Learning
+
+#### Petri — Programming Experiments
+
+https://github.com/objectiveprover/Petri
+
+<br><br>
+
+## 4. Specs & Standards
+
+https://github.com/objectiveprover/Specs
+
+<br><br>
+
+## 5. Self-hosted Personal Applications
+
+### Bookshelf — Ebook Manager
+
+https://github.com/objectiveprover/Bookshelf
+
+### Cinema — Media Server
+
+https://github.com/objectiveprover/Cinema
+
+### Notebook — Network-wide Technical Notebook
+
+https://github.com/objectiveprover/Notebook
+
+### Archive — Save and Archive Web Content
+
+https://github.com/objectiveprover/Archive
+
+### Desk — Sell Open Source Support
+
+https://github.com/objectiveprover/Desk
+
