@@ -20,7 +20,7 @@ https://github.com/objectiveprover/.emacs.d
 
 ## 2. Utilities
 
-#### TimeTracker — Timer Widget for Omarchy Linux
+### TimeTracker — Timer Widget for Omarchy Linux
 
 https://github.com/objectiveprover/TimeTracker
 
@@ -28,7 +28,7 @@ https://github.com/objectiveprover/TimeTracker
 
 ## 3. Learning
 
-#### Petri — Programming Experiments
+### Petri — Programming Experiments
 
 https://github.com/objectiveprover/Petri
 
