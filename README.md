@@ -1,3 +1,15 @@
+I'm a cognitive designer; My job is to control complexity and make things understandable for the human[^1] mind. 
+
+Most of the software below has been build with AI to solve a problem fast, once a project is feature-complete, the consecutive versions will be about cleaning up the code-base and the UIs to see the difference in understandability, or to discover where is the threshold where a human can no longer understand what AI has generated, or where AI becomes too fragile to trust in the present moment (as of November 2026). 
+
+These projects are not meant to be used by non-technical people, they are experiments and will constantly change, also they are mostly focused on my own use cases, so each repository has Issues and Pull Requests disabled.
+
+However, if you are interested in seeing some of these projects become a real product, you can sponsor the development and I'll put more effort to it.
+
+My email is available on this profile for any requests.
+
+<br><br>
+
 ## 1. Terminal tools
 
 ### CaddyMan — Manager for Self-Hosted Server Applications
@@ -58,3 +70,6 @@ https://github.com/objectiveprover/Archive
 
 https://github.com/objectiveprover/Desk
 
+<br><br>
+
+[^1]: In contrast to AI.
