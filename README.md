@@ -50,10 +50,6 @@ https://github.com/objectiveprover/Bookshelf
 
 https://github.com/objectiveprover/Cinema
 
-### Notebook — Network-wide Technical Notebook
-
-https://github.com/objectiveprover/Notebook
-
 ### Archive — Save and Archive Web Content
 
 https://github.com/objectiveprover/Archive
