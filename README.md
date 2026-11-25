@@ -34,7 +34,7 @@ https://github.com/objectiveprover/Petri
 
 <br><br>
 
-## 4. Specs & Standards
+## 4. Specs, Standards and Conventions
 
 https://github.com/objectiveprover/Specs
 
