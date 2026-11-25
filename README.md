@@ -4,7 +4,7 @@ Most of the software below has been build with AI to solve a problem fast, once 
 
 These projects are not meant to be used by non-technical people, they are experiments and will constantly change, also they are mostly focused on my own use cases, so each repository has Issues and Pull Requests disabled.
 
-However, if you are interested in seeing some of these projects become a real product, you can sponsor the development and I'll put more effort to it.
+However, if you are interested in seeing some of these projects become a real product, you can sponsor the development and I'll put more effort to it. Depending on the sponsorship, I can also work on a project full time.
 
 My email is available on this profile for any requests.
 
